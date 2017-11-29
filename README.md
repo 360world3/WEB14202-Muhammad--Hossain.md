@@ -1,9 +1,8 @@
 # WEB14202-Muhammad--Hossain.md
 
 ## Link to project work.
-https://drive.google.com/a/students.rave.ac.uk/file/d/1GtO_dX5QkOCVt_B_Q9DDVzDh_07YLqlV/view?usp=sharing
-https://drive.google.com/a/students.rave.ac.uk/file/d/1niWRcbWLHRoh-buf_Quh5so_nseZelmk/view?usp=sharing
-
+https://drive.google.com/file/d/1GtO_dX5QkOCVt_B_Q9DDVzDh_07YLqlV/view?usp=sharing
+https://drive.google.com/file/d/1niWRcbWLHRoh-buf_Quh5so_nseZelmk/view?usp=sharing
 ## Link to blog post:
 
 What is the biggest challenge with teamwork?
